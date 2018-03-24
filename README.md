@@ -13,7 +13,7 @@ $ chmod 755 Miniconda3-latest-MacOSX-x86_64.sh
 $ ./Miniconda3-latest-MacOSX-x86_64.sh
 ```
 
-Yes를 입력하여 라이선스에 동의하고, Enter키를 치면 기본 경로에 설치된다. 책 0장에 있는 명령을 입력하여 이 책의 실습 패키지를 설치한 후, 여기에 접속한다.
+Yes를 입력하여 라이선스에 동의하고, Enter키를 치면 기본 경로에 설치된다. 책 0장에 있는 명령을 입력하여 이 책의 실습 패키지를 설치하여, 이 책에 맞는 환경을 설정한다.
 
 ```bash
 $ git clone https://github.com/AstinCHOI/elegant-scipy
@@ -22,5 +22,6 @@ $ cd elegant-scipy
 $ conda env create --name elegant-scipy -f environment.yml
 $ source activate elegant-scipy
 ```
+
 
 
