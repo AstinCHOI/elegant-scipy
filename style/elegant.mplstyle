@@ -1,7 +1,7 @@
 # Elegant SciPy Matplotlib Style
 # Author: Juan Nunez-Iglesias
 
-# for Korean
+# 한글
 font.family: AppleGothic
 
 lines.linewidth: 1.5
@@ -21,6 +21,9 @@ axes.labelsize: small
 
 # Use thicker axes
 axes.linewidth: 1.1
+
+# 그래프에서 마이너스 폰트 깨지는 문제에 대한 대처
+axes.unicode_minus: false
 
 # Remove ticks
 xtick.major.size: 0
