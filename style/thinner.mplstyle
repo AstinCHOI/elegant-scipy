@@ -26,7 +26,7 @@ axes.linewidth: 1.1
 # Remove ticks
 xtick.major.size: 0
 xtick.minor.size: 0
-xtick.labelsize: x-small
+xtick.labelsize: xx-small
 ytick.major.size: 0
 ytick.minor.size: 0
 ytick.labelsize: x-small
