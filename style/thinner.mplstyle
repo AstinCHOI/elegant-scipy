@@ -44,7 +44,7 @@ legend.fontsize: x-small
 figure.facecolor: 1.0
 figure.autolayout: false
 # O'Reilly figure width, maintaining 4:3 aspect ratio
-figure.figsize: 4.8, 3.6
+figure.figsize: 7.2, 5.4
 figure.dpi: 300
 savefig.dpi: 300
 
